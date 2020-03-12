@@ -1,0 +1,7 @@
+{
+  "name": "recipeasy0.2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
